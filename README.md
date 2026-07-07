@@ -1,2 +1,2 @@
-# ZenlessZoneZeroWin11Theme
-Zenless Zone Zero theme for Windows 11
+# Zenless Zone Zero theme for Windows 11
+
